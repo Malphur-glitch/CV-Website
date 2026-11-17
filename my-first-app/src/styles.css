@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  color: #252525;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+  background-image: url('image/firewatch.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+section {
+  margin: 26px 0;
+  padding: 18px 22px;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(4px);
+}
+
+.section-title {
+  color: #7a1f3d;
+  border-bottom: 1px solid #aaaaaa;
+  padding-bottom: 6px;
+  margin-top: 0;
+  text-transform: uppercase;
+  font-size: 1.15rem;
+}
